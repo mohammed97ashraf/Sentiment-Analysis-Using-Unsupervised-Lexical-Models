@@ -10,5 +10,5 @@ Sentiment polarity is typically a numeric score that’s assigned to both the po
 
 Unsupervised sentiment analysis models make use of well curated knowledgebases, ontologies, lexicons and databases which have detailed information pertaining to subjective words, phrases including sentiment, mood, polarity, objectivity, subjectivity and so on. A lexicon model typically uses a lexicon, also known as a dictionary or vocabulary of words specifically aligned towards sentiment analysis. Usually these lexicons contain a list of words associated with positive and negative sentiment, polarity (magnitude of negative or positive score), parts of speech (POS) tags, subjectivity classifiers (strong, weak, neutral), mood, modality and so on.
 
-**I have written a complete article on the medium you can view at :**https://medium.com/@mohammed97ashraf/unsupervised-lexical-models-for-sentiment-prediction-using-python-e01576e8c9a6
+**I have written a complete article on the medium you can view at**https://medium.com/@mohammed97ashraf/unsupervised-lexical-models-for-sentiment-prediction-using-python-e01576e8c9a6
 
